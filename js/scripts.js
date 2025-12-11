@@ -11,4 +11,7 @@
 /* ======================================================
    (L O B O)
    ====================================================== */
+   alert("Bienvenido " + nombre + " (Usuario: " + usuario + ")");
+  document.getElementById("modalLogin").style.display = "none";
+
 
